@@ -1,2 +1,2 @@
 # miesiecznik-public
-#  :dane użyte do produkcji wykresów FE
+dane użyte do produkcji wykresów FE
